@@ -9,7 +9,6 @@ body{
     font-weight:bolder;
 }
 
-
 .cabecera{
     background: black;
 }
@@ -27,12 +26,11 @@ body{
     text-decoration: none;
     color:darkred
 }
-    
-.cabecera_lista_items{
-    list-style: none;
-    font-size: 30px;
-}
 
 .cabecera_logo{
     width: 5vw;
+}
+
+.imagen-hvsa{
+    width: 200vh;
 }
